@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "username": "KingHann",
+    "lastLogin": "2026-10-04T12:05:17.923Z",
+    "sessionKey": "89ecc1ba4bb6b51c",
+    "role": "owner",
+    "ipAddress": "::ffff:127.0.0.1",
+    "androidId": "SP1A.210812.003"
+  }
+]
