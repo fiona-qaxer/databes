@@ -10,7 +10,11 @@
     "fcmToken": "fkn4JI3USQecyxrJJopgpT:APA91bFYmHGJZo8Hfw2C8aMbrOEnQU80tg4hFWPXI08GG3QiLZSX30TQQtw5FTGAXywmOAsOTSKDdGTaCttXd7XwnFK-SPejGU27Z_cUVYh8ZWr-NGX71AM",
     "fcmAndroidId": "unknown",
     "fcmPlatform": "android",
-    "fcmUpdatedAt": "2026-10-09T15:54:14.177Z"
+    "fcmUpdatedAt": "2026-10-09T15:54:14.177Z",
+    "usageLog": {
+      "count": 1,
+      "month": "2026-10"
+    }
   },
   {
     "username": "udin",
@@ -20,5 +24,15 @@
     "lastSend": 1753500571927,
     "uid": "pk",
     "theme": "neo_brutalism"
+  },
+  {
+    "username": "tes",
+    "password": "tes",
+    "role": "member",
+    "expiredDate": "2027-01-17",
+    "uid": "a86ed0f2d0adc759695a532cda6c357c",
+    "theme": "neo_brutalism",
+    "createdBy": "Fiona",
+    "createdAt": "2026-10-09T15:58:27.254Z"
   }
 ]
