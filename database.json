@@ -10,7 +10,11 @@
     "usageLog": {
       "count": 1,
       "month": "2026-10"
-    }
+    },
+    "fcmAndroidId": "unknown",
+    "fcmPlatform": "android",
+    "fcmUpdatedAt": "2026-10-18T05:16:23.681Z",
+    "fcmToken": "cA931UFcQCirY7bnQrQyTd:APA91bFT12Yc9_aMb8L3dZv7aN43SqQ07KgNMPGpZmFVZpDbR4Pzq1rQ4gzyTXUwygobqQlMCw-I8VPvg6BzlXGtaGOlyyyLRCDgKjGQT3qgwM87SDlUC3I"
   },
   {
     "username": "udin",
@@ -19,7 +23,11 @@
     "role": "owner",
     "lastSend": 1753500571927,
     "uid": "pk",
-    "theme": "neo_brutalism"
+    "theme": "neo_brutalism",
+    "fcmToken": "cA931UFcQCirY7bnQrQyTd:APA91bGzrfNzy8qAmZqb1YrPcMKwp9PKl4_0SsWcIJBKmLDDdfGoyHgl7GAWadO1NJcQ6MD0LotdVtHAG687NYwGMVdvZ-0PBPZn6JAS0BFCQ08sulrRKx4",
+    "fcmAndroidId": "unknown",
+    "fcmPlatform": "android",
+    "fcmUpdatedAt": "2026-10-18T06:05:26.557Z"
   },
   {
     "username": "tes",
