@@ -1,16 +1,8 @@
 [
   {
     "username": "Fiona",
-    "lastLogin": "2026-10-22T04:20:28.301Z",
-    "sessionKey": "e55e591696148a59",
-    "role": "owner",
-    "ipAddress": "::ffff:127.0.0.1",
-    "androidId": "SP1A.210812.003"
-  },
-  {
-    "username": "udin",
-    "lastLogin": "2026-10-18T06:05:23.952Z",
-    "sessionKey": "0e2bd675a93a55f3",
+    "lastLogin": "2026-10-25T06:21:03.342Z",
+    "sessionKey": "84eb937815b70f57",
     "role": "owner",
     "ipAddress": "::ffff:127.0.0.1",
     "androidId": "SP1A.210812.003"
