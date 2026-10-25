@@ -10,7 +10,11 @@
     "usageLog": {
       "count": 1,
       "month": "2026-10"
-    }
+    },
+    "fcmToken": "faFDbed2ST-PWJHBI43IQw:APA91bGAmW0gQEtr8Wdh3A6Owd_IVDegJ2JulSoI1vygYc1Kd5eTpGp0DJDCgn3IpOKQYrado0o7xr8DOK3VqQAqf_X6GWUxaX-Rp8WGamtVFWsqASWFllg",
+    "fcmAndroidId": "unknown",
+    "fcmPlatform": "android",
+    "fcmUpdatedAt": "2026-10-25T06:26:21.013Z"
   },
   {
     "username": "udin",
